@@ -1,0 +1,22 @@
+Author: Fredrick Nash
+Date Created: December 14, 2024
+Course: ITT103
+GitHub Public URL to Code:
+
+             System requirements:
+     _______________________________________
+Windows 7, Windows 8, 8.1, 10, 11, 
+a. need a reliable computer system or Laptop.
+b. Preferable minimum ROM-4GB
+c. Minimum Storage- 5GB on HDD
+d. Phyton 3.12 or Pycharm Community Edition 2024.3
+
+
+Given that you have some level of programing, you can use the code for educational purposes.
+This program is all about a College Registration system, where it intend to Register Students both with their name, ID number and also their emal address.
+
+To Run the program, ensure your computer system meet the requirements
+Download Python 3.12 or pycharm Community Edition 2024.3 from the Google web-browser
+then follow the app instruction to run the program
+then download the code from git hub website and open it in either phyton or pycharm that you previously install
+then you are ready to start coding.
